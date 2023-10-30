@@ -12,3 +12,4 @@
 
 # Практические работы
   -  [Практическая работа 1](https://github.com/MakarevichDE/PDA_SOL/blob/main/Практическая_работа_1.ipynb)
+  -  [Практическая работа 2](https://github.com/MakarevichDE/PDA_SOL/blob/main/Практическая_работа_2.ipynb)
